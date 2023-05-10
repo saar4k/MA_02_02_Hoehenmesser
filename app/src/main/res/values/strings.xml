@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Hoehenmesser</string>
-    <string name="altitude_placeholder">Höhe:</string>
+    <string name="altitude_placeholder">Höhe</string>
 </resources>
